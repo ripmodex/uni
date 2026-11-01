@@ -151,3 +151,5 @@ if __name__ == "__main__":
         print_list(neznak)
         print(f"Oppa, nisi pogodilo rec => {nepoznato_rec}, dobio si 6 greska, i vesela je zavrsen.")
         print("-"*40)
+
+#asd
